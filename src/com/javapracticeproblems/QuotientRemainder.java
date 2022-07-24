@@ -11,7 +11,6 @@ public class QuotientRemainder {
 		int dividend  = userinput.nextInt();
 		System.out.println("Enter second number : ");
 		int divisor = userinput.nextInt();
-		
 		userinput.close();
 		
 		int quotient = dividend / divisor;
